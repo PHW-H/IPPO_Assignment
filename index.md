@@ -8,6 +8,8 @@
  img_huis_4
  ![Image](huis1.png)
  huis1
+ ![Image](huis1.jpg)
+ huis1
  
  
  [huis](https://github.com/PHW-H/IPPO_Assignment/settings/pages)
