@@ -1,4 +1,4 @@
- ![Image](img_huis_1)
+ ![Image](img_huis_1.png)
 
 
 ### Jekyll Themes
